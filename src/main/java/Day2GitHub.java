@@ -6,7 +6,7 @@ public class Day2GitHub {
 
     }
 
-
+// github öğrendim.
 
 }
 
